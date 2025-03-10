@@ -1,0 +1,116 @@
+{
+  "summary": {
+    "totalLikes": 5,
+    "totalDislikes": 4
+  },
+  "songs": [
+    {
+      "id": "c3d4",
+      "img": "https://i.ytimg.com/vi/MMOqfBLWxH8/maxresdefault.jpg",
+      "title": "Levitating",
+      "desc": "A funky disco-pop track featuring catchy lyrics and an infectious groove.",
+      "songType": "Video",
+      "popStyle": "Disco-Pop",
+      "duration": "3",
+      "releaseDate": "2020-10-01",
+      "isLiked": true,
+      "isDisLiked": false
+    },
+    {
+      "id": "e5f6",
+      "img": "https://i.ytimg.com/vi/SGNQwN6f2gk/maxresdefault.jpg",
+      "title": "Memories",
+      "desc": "A sentimental song about love and remembrance with a simple melody.",
+      "songType": "Audio",
+      "popStyle": "Pop",
+      "duration": "3",
+      "releaseDate": "2019-09-20",
+      "isLiked": false,
+      "isDisLiked": true
+    },
+    {
+      "id": "g7h8",
+      "img": "https://i.ytimg.com/vi/uRPXPpzdMuI/maxresdefault.jpg",
+      "title": "Cruel Summer",
+      "desc": "An upbeat electro-pop track about love, longing, and fleeting romance.",
+      "songType": "Video",
+      "popStyle": "Electropop",
+      "duration": "3",
+      "releaseDate": "2019-08-23",
+      "isLiked": true,
+      "isDisLiked": false
+    },
+    {
+      "id": "i9j0",
+      "img": "https://i.scdn.co/image/ab67616d0000b273081f2ec640d4b1bbceec33c1",
+      "title": "Yo Perreo Sola",
+      "desc": "A reggaeton anthem about female empowerment and independence.",
+      "songType": "Audio",
+      "popStyle": "Reggaeton",
+      "duration": "3",
+      "releaseDate": "2020-02-29",
+      "isLiked": false,
+      "isDisLiked": true
+    },
+    {
+      "id": "k1l2",
+      "img": "https://i.ytimg.com/vi/Amsbv8GlEBk/maxresdefault.jpg",
+      "title": "Say So",
+      "desc": "A smooth and catchy disco-inspired track that became a viral sensation.",
+      "songType": "Video",
+      "popStyle": "R&B",
+      "duration": "3",
+      "releaseDate": "2019-11-07",
+      "isLiked": true,
+      "isDisLiked": false
+    },
+    {
+      "id": "m3n4",
+      "img": "https://images.genius.com/df009633e4702b3838c793c7fd97adf3.1000x1000x1.png",
+      "title": "Dynamite",
+      "desc": "An energetic and upbeat K-pop track with a retro disco influence.",
+      "songType": "Audio",
+      "popStyle": "K-Pop",
+      "duration": "3",
+      "releaseDate": "2020-08-21",
+      "isLiked": true,
+      "isDisLiked": false
+    },
+    {
+      "id": "o5p6",
+      "img": "https://th.bing.com/th/id/OIP.rVLX8_zRJfQGgSmudEs9ywHaHa?rs=1&pid=ImgDetMain",
+      "title": "Therefore I Am",
+      "desc": "A rebellious anthem with sarcastic lyrics and a bass-heavy beat.",
+      "songType": "Video",
+      "popStyle": "Alternative",
+      "duration": "3",
+      "releaseDate": "2020-11-12",
+      "isLiked": false,
+      "isDisLiked": true
+    },
+    {
+      "id": "q7r8",
+      "img": "https://assets.ppy.sh/beatmaps/1575739/covers/list.jpg?1645781587",
+      "title": "Stay",
+      "desc": "A collaboration between The Kid Laroi and Justin Bieber, featuring a fresh, emotional pop sound.",
+      "songType": "Audio",
+      "popStyle": "Hip-Hop",
+      "duration": "3",
+      "releaseDate": "2021-07-09",
+      "isLiked": true,
+      "isDisLiked": false
+    },
+    {
+      "id": "s9t0",
+      "img": "https://s.yimg.com/ny/api/res/1.2/me.t_v60BduwxYVQicUJZw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQyNw--/https://media.zenfs.com/en/syfy_655/955b91cb7d82633415708504d2ea2436",
+      "title": "Peaches",
+      "desc": "A chill and laid-back track blending R&B and pop influences.",
+      "songType": "Video",
+      "popStyle": "R&B",
+      "duration": "3",
+      "releaseDate": "2021-03-19",
+      "isLiked": false,
+      "isDisLiked": true
+    }
+  ]
+}
